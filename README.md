@@ -7,4 +7,6 @@ Then you run CodeQL queries on that database to identify problems in the codebas
 The query results are shown as code scanning alerts in GitHub when you use CodeQL with code scanning.
 
 Learn more 👉 https://docs.github.com/es/code-security/codeql-cli/using-the-advanced-functionality-of-the-codeql-cli/publishing-and-using-codeql-packs
+
+
 <img src="GitHub-Actions.png">
